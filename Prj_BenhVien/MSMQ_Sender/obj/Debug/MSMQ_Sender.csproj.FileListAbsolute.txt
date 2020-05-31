@@ -1,0 +1,11 @@
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe.config
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\bin\Debug\MSMQ_Sender.pdb
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\bin\Debug\Prj_BenhVien.dll
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\bin\Debug\Prj_BenhVien.pdb
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\obj\Debug\MSMQ_Sender.csprojResolveAssemblyReference.cache
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\obj\Debug\MSMQ_Sender.Sender.resources
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\obj\Debug\MSMQ_Sender.Properties.Resources.resources
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.GenerateResource.Cache
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\obj\Debug\MSMQ_Sender.exe
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Sender\obj\Debug\MSMQ_Sender.pdb

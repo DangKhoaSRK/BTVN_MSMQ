@@ -1,0 +1,4 @@
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\Prj_BenhVien\bin\Debug\Prj_BenhVien.dll
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\Prj_BenhVien\bin\Debug\Prj_BenhVien.pdb
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\Prj_BenhVien\obj\Debug\Prj_BenhVien.dll
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\Prj_BenhVien\obj\Debug\Prj_BenhVien.pdb

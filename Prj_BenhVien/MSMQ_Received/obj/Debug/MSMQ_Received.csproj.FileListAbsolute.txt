@@ -1,0 +1,13 @@
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\bin\Debug\MSMQ_Received.exe.config
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\bin\Debug\MSMQ_Received.exe
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\bin\Debug\MSMQ_Received.pdb
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\bin\Debug\Prj_BenhVien.dll
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\bin\Debug\Prj_BenhVien.pdb
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\obj\Debug\MSMQ_Received.csprojResolveAssemblyReference.cache
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\obj\Debug\MSMQ_Received.Received.resources
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\obj\Debug\MSMQ_Received.Properties.Resources.resources
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\obj\Debug\MSMQ_Received.csproj.GenerateResource.Cache
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\obj\Debug\MSMQ_Received.exe
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\obj\Debug\MSMQ_Received.pdb
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\bin\Debug\MSMQ_Sender.exe
+C:\Users\DangKhoaSRK\Desktop\16020551_NguyenHoDangKhoa\Prj_BenhVien\MSMQ_Received\bin\Debug\MSMQ_Sender.pdb
